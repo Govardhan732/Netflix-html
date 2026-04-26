@@ -1,0 +1,16 @@
+#first{
+    color: white;
+    background-color:green;
+}
+.second{
+    color: blue;
+    background-color:yellow;
+}
+h1{
+     color:green;
+    background-color:blue;
+}
+*{
+    color:red;
+    background-color:black;
+}
